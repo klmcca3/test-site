@@ -1,0 +1,17 @@
+.jumbotron{
+  height:600px;
+}
+
+.item img{
+  height:600px;
+}
+
+
+
+.footer{
+   height: 60px;
+   padding-top: 10px;
+   background: #000;
+   color: white;
+   opacity: 0.90;
+ }
